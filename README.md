@@ -91,7 +91,7 @@ The screenshots `Cart-Permits-Before.png` and `Cart-Permits-After.png` show the 
 
 ### Home – Where to go (route + theme)
 
-<img src="./screenshots/Home_Route_Theme.png" alt="Home screen with From/Via/To, Go/Delete and theme toggle" width="300" />
+<img src="./screenshots/Home_Screen.png" alt="Home screen with From/Via/To, Go/Delete and theme toggle" width="300" />
 
 ### Cart – Permits cart (Redux) – before
 
@@ -107,11 +107,11 @@ The screenshots `Cart-Permits-Before.png` and `Cart-Permits-After.png` show the 
 
 ### Trip details – API item
 
-<img src="./screenshots/Trip_Details.png" alt="Trip details screen for API item" width="300" />
+<img src="./screenshots/Trip_Details_Api.png" alt="Trip details screen for API item" width="300" />
 
 ### Trip details – Home route map
 
-<img src="./screenshots/Trip_Details_Home_Route.png" alt="Trip details screen with Home route and static map preview" width="300" />
+<img src="./screenshots/Trip_Details.png" alt="Trip details screen with Home route and static map preview" width="300" />
 
 ### Regulations – Map placeholder
 
